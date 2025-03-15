@@ -1,2 +1,1 @@
-infiniflow/ragflow:v0.17.2-slim
-infiniflow/infinity:v0.6.0-dev3
+elasticsearch:8.11.3
